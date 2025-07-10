@@ -14,7 +14,7 @@ const blogPosts = [
     id: "0",
     guestName: "Mr Jethro Muluba",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752105481/Weeding%20Baka/Template02_rb0tif.webp",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752152678/Weeding%20Baka/Guest-Done/Guest_Mr_Jethro_M_hgafi2.png",
     guestTable: "Patience"
   },
 
