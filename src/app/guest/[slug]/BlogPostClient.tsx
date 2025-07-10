@@ -76,7 +76,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
           </p>
 
           <p className='mb-4'>
-            081 943 47 66 | 082 991 56 72
+          +243 999 859 282 | +243 829 915 672
           </p>
 
           <p className='mb-4'>
