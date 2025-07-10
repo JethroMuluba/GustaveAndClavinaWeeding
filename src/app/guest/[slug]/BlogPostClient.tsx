@@ -27,7 +27,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
 
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen ">
       <motion.section 
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
