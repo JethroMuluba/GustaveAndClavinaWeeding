@@ -33,7 +33,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
       transition={{ duration: 1.5 }}
-      className="bg-fixed bg-no-repeat overflow-hidden flex justify-between items-center   py-100 md:py-230   "
+      className="bg-scroll overflow-hidden flex justify-between items-center   py-100 md:py-230   "
       style={{ backgroundImage: `url(${getTemplate01})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
     >
     </motion.section>
