@@ -22,7 +22,7 @@ const blogPosts = [
     id: "1",
     guestName: "Mr Germain Kakirage",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752105481/Weeding%20Baka/Template02_rb0tif.webp",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752152859/Weeding%20Baka/Guest-Done/GuestMr_Germain_K_a2zy31.png",
     guestTable: "Vertu"
   },
 
@@ -30,7 +30,7 @@ const blogPosts = [
     id: "2",
     guestName: "Couple Makabi",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752105481/Weeding%20Baka/Template02_rb0tif.webp",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752152857/Weeding%20Baka/Guest-Done/GuestCouple_Makab_vcwrzs.png",
     guestTable: "Foi"
   },
 
