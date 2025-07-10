@@ -1,78 +1,21 @@
 import type React from "react"
 import type { Metadata } from "next"
 import "./globals.css"
-import { Outfit } from 'next/font/google'
+import { Playfair_Display } from 'next/font/google'
 import ScrollToTop from '@/components/ScrollToTop'
 
 
-const outfit = Outfit({
+const playfairDisplay = Playfair_Display({
   subsets: ['latin'],
 })
 
-// const madeInfinityFont = LocalFont({
-//   src :[
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Thin.otf',
-//       weight: '100',
-//       style: 'thin',
-//     },
 
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Light.otf',
-//       weight: '200',
-//       style: 'extralight',
-//     },
-
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Light.otf',
-//       weight: '300',
-//       style: 'light',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Regular.otf',
-//       weight: '400',
-//       style: 'normal',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Medium.otf',
-//       weight: '500',
-//       style: 'medium',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Regular.otf',
-//       weight: '650',
-//       style: 'semibold',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Black.otf',
-//       weight: '700',
-//       style: 'bold',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Black.otf',
-//       weight: '800',
-//       style: 'extrabold',
-//     },
-
-//     {
-//       path :'../fonts/MADEINFINITY-PERSONALUSE-Black.otf',
-//       weight: '900',
-//       style: 'black',
-//     }
-//   ]
-// })
 
 
 export const metadata: Metadata = {
-  title: "Maintelia Technologies - Votre Partenaire Technologique pour un Futur Intelligent",
+  title: "Mariage de Gustave et Clavina (B de B)",
   description:
-    "Maintelia Technologies accompagne votre entreprise dans sa transformation digitale avec des solutions sur mesure, performantes et innovantes",
+    "Aujourd'hui, nous unissons nos cœurs pour la vie, et c'est avec émotion que vous assistez à la naissance d'un nouveau chapitre plein d'amour, de complicité et de promesses.",
 }
 
 export default function RootLayout({
@@ -81,7 +24,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="fr" className={outfit.className}>
+    <html lang="fr" className={playfairDisplay.className}>
       <body>
         
           {children}
