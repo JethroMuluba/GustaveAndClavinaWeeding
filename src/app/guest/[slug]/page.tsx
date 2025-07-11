@@ -64,7 +64,7 @@ const blogPosts = [
     id: "7",
     guestName: "Couple Don du Ciel",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752185580/Weeding%20Baka/Guest-Done/Guest_Don_du_Ciel_iwelpt.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752227644/Weeding%20Baka/Guest-Done/GuestCouple_Don_d_vzfrhn.png",
     guestTable: "Logan"
   },
 
