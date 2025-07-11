@@ -30,7 +30,7 @@ const blogPosts = [
 
   {
     id: "3",
-    guestName: "Mlle Ruth Mbemba",
+    guestName: "Couple Ruth Mbemba",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752185132/Weeding%20Baka/Guest-Done/Guest_Mlle_Ruth_M_wfmij0.png",
     guestTable: "Faith"
@@ -38,7 +38,7 @@ const blogPosts = [
 
   {
     id: "4",
-    guestName: "Mme Rebecca Kamba",
+    guestName: "Couple Rebecca Kamba",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752185132/Weeding%20Baka/Guest-Done/Guest_Mme_Rebecca_cdv3nu.png",
     guestTable: "Faith"
@@ -46,7 +46,7 @@ const blogPosts = [
 
   {
     id: "5",
-    guestName: "Mr Rabby Bumba",
+    guestName: "Couple Rabby Bumba",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752185133/Weeding%20Baka/Guest-Done/Guest_Mr_Rabby_Bu_zal7en.png",
     guestTable: "Faith"
@@ -177,7 +177,7 @@ const blogPosts = [
     guestName: "Leadership",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752192439/Weeding%20Baka/Guest-Done/Guest_Leadership_wqsl8v.png",
-    guestTable: "Laura"
+    guestTable: "Leadership"
   },
 
   {
@@ -185,7 +185,7 @@ const blogPosts = [
     guestName: "Blessing Kebey",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752192439/Weeding%20Baka/Guest-Done/Guest_Blessing_K_htxlgy.png",
-    guestTable: "Laura"
+    guestTable: "Leadership"
   },
 ]
 
