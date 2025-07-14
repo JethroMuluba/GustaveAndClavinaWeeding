@@ -875,24 +875,25 @@
     },
 
     {
-        "id" : 2,
+        "id" : 1,
         "label" : "Téléphone",
         "errorMessage" : "Phone is required"
     },
 
     {
-        "id" : 3,
+        "id" : 2,
         "label" : "Email",
         "errorMessage" : "Email must have at least 5 letters"
     },
 
     {
-        "id" : 4,
+        "id" : 3,
         "label" : "Message",
         "errorMessage" : "You must message me to get more informations"
     },
 
     {
+        "id" : 4,
         "buttonName" : "ENVOYER LE MESSAGE"
     }
 ]

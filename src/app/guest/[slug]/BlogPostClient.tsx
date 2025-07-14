@@ -204,7 +204,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                   initial={{ x: 100, opacity: 0 }}
                                   animate={isInViewGoldenBook ? { x: 0, opacity: 1 } : { x: 100, opacity: 0 }}
                                   transition={{ duration: 2, ease: "easeOut" }}
-        className='text-2xl mb-17'>
+        className='text-2xl mb-28 text-[#c49344]'>
             Livre d&apos;or
         </motion.h2>
 
@@ -212,10 +212,10 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
           <ContactForm/>
 
           <div>
-            <p className='py-  px-8  text-[10px]'>
+            <p className='py-  px-8  text-[10px] text-black '>
                 Powered By Jethro Code/Polytech Services
             </p>
-            <p className='py-  px-8  text-[10px]'>
+            <p className='py-  px-8  text-[10px] text-black'>
               +243 827 964 420
             </p>
           </div>
