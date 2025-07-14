@@ -58,7 +58,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
   };
 
   return (
-    <main className="min-h-screen bg-[#6f3d2c] flex flex-col md:items-center">
+    <main className="min-h-screen bg-[#fff] flex flex-col md:items-center">
       <motion.section 
                           initial={{ scale: 0, opacity: 0 }}
                           animate={{ scale: 1, opacity: 1 }}
@@ -98,7 +98,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                             animate={isInView ? { x: 0, opacity: 1 } : { x: -100, opacity: 0 }}
                                             transition={{ duration: 1, ease: "easeOut" }}
           className='mb-7'>
-            C&apos;est avec beaucoup d&apos;émotions que Josky et Gilta vous convient à leur soirée dansante
+            C&apos;est avec beaucoup d&apos;émotions que Gustave et Clavina vous convient à leur soirée dansante
           </motion.p>
 
           <motion.p 
@@ -106,7 +106,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                   animate={isInView ? { x: 0, opacity: 1 } : { x: 100, opacity: 0 }}
                                   transition={{ duration: 1.5, ease: "easeOut" }}
           className='mb-7'>
-            Le vendredi 08 août 2025 à 19h00. 
+            Le vendredi 25 juillet 2025 à 19h00. 
           </motion.p>
 
 
@@ -116,7 +116,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                                         animate={isInView ? { x: 0, opacity: 1 } : { x: -100, opacity: 0 }}
                                                         transition={{ duration: 2, ease: "easeOut" }}
             className='mb-4'>
-              L&apos;événement aura lieu dans la magnifique Salle de fête Stina sise 45 dans la commune de Kasa-Vubu.
+              L&apos;événement aura lieu dans la magnifique Salle de fête Turbant Tower sise 169, Avenue Lowa, Q/Ngwaka, C/Kinshasa.
             </motion.p>
 
             <motion.p 
@@ -124,7 +124,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                                         animate={isInView ? { x: 0, opacity: 1 } : { x: 100, opacity: 0 }}
                                                         transition={{ duration: 2.5, ease: "easeOut" }}
             className='mb-7'>
-              Réf. Croisement des avenues Gambela et Popokabaka.
+              Réf. Huilerie en diagonale de Camp Lufungula.
             </motion.p>
           </div>
 
@@ -141,7 +141,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                                                   animate={isInView ? { x: 0, opacity: 1 } : { x: 100, opacity: 0 }}
                                                                   transition={{ duration: 3.5, ease: "easeOut" }}
           className='mb-7'>
-          +243 997 103 857 | +243 824 208 889
+          +243 999 859 282 | +243 829 915 672
           </motion.p>
 
           <motion.p 
@@ -156,7 +156,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
                                                                             initial={{ x: 100, opacity: 0 }}
                                                                             animate={isInView ? { x: 0, opacity: 1 } : { x: 100, opacity: 0 }}
                                                                             transition={{ duration: 4.5, ease: "easeOut" }}
-          className='mb-23 md:mb-28'>
+          className='mb-14 md:mb-28'>
             Table : {post.guestTable}
           </motion.p>
 
