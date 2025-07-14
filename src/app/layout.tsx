@@ -13,7 +13,7 @@ const playfairDisplay = Playfair_Display({
 
 
 export const metadata: Metadata = {
-  title: "Mariage de Josky et Gilta",
+  title: "Mariage de Gustave et Clavina (B de B)",
   description:
     "Aujourd'hui, nous unissons nos cœurs pour la vie, et c'est avec émotion que vous assistez à la naissance d'un nouveau chapitre plein d'amour, de complicité et de promesses.",
 }
