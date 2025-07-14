@@ -331,15 +331,6 @@ const blogPosts = [
 
   {
     id: "40",
-    guestName: "Adriella M.",
-    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
-    guestTable: "Intelligra"
-  },
-  
-
-  {
-    id: "41",
     guestName: "Antony",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -347,7 +338,7 @@ const blogPosts = [
   },
 
   {
-    id: "42",
+    id: "41",
     guestName: "Hébreu",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -355,7 +346,7 @@ const blogPosts = [
   },
 
   {
-    id: "43",
+    id: "42",
     guestName: "Mardoché",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -363,7 +354,7 @@ const blogPosts = [
   },
 
   {
-    id: "44",
+    id: "43",
     guestName: "Joël Kilaba ",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -371,7 +362,7 @@ const blogPosts = [
   },
 
   {
-    id: "45",
+    id: "44",
     guestName: "Julia",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -380,7 +371,7 @@ const blogPosts = [
 
 
   {
-    id: "46",
+    id: "45",
     guestName: "François Ngumb",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -388,7 +379,7 @@ const blogPosts = [
   },
 
   {
-    id: "47",
+    id: "46",
     guestName: "Amisi Musa",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -396,7 +387,7 @@ const blogPosts = [
   },
 
   {
-    id: "48",
+    id: "47",
     guestName: "Kashou",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
@@ -404,7 +395,7 @@ const blogPosts = [
   },
 
   {
-    id: "49",
+    id: "48",
     guestName: "David Mbuyi ",
     guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
