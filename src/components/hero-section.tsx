@@ -1,6 +1,6 @@
 'use client'
 
-// import Link from "next/link"
+import Link from "next/link"
 // // import Image from "next/image"
 // import { ArrowRight } from "lucide-react"
 import data from "@/data/data.json"
@@ -50,15 +50,27 @@ export default function  HeroSection() {
   // const [sliderRef] = useKeenSlider({ loop: true }, [AutoplayPlugin])
 
   return (
-    <motion.section 
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      transition={{ duration: 1.5 }}
-      className="bg-fixed overflow-hidden flex justify-between items-center  h-full  py-100 md:py-230 w-1989  "
-      style={{ backgroundImage: `url(${getCover})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
-    >
-    </motion.section>
+    <div>
+      <motion.section 
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={{ duration: 1.5 }}
+        className="bg-no-repeat overflow-hidden items-center h-[926px] md:w-[428px] "
+        style={{ backgroundImage: `url(${getCover})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
+      >
+
+        <div className="flex justify-center mt-150">
+        <Link
+          href="/guest"
+          className=" border border-[#c49344] hover:bg-[#f5e6c9] px-6 py-2 rounded-lg font-normal text-white cursor-pointer flex items-center justify-center gap-2 transition-colors duration-200"
+        >
+          <span className='text-xs'>Voir à la liste des invités</span>
+        </Link>
+      </div>
+      </motion.section>
+
+    </div>
   )
 }
 

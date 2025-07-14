@@ -131,8 +131,8 @@
                 {
                     "title" : "Votre Partenaire Technologique pour un Futur Intelligent",
                     "subtitle" : "Maintelia Technologies accompagne votre entreprise dans sa transformation digitale avec des solutions sur mesure, performantes et innovantes. ",
-                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752148018/Weeding%20Baka/Asset_1_Front_axg3tp.webp",
-                    "cover1" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752105481/Weeding%20Baka/Template02_rb0tif.webp"
+                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752504200/Weeding%20Baka/Hero_guest_ahejde.png",
+                    "cover1" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752504200/Weeding%20Baka/Bottom_guest_opwuoz.png"
 
                 },
 
@@ -870,12 +870,7 @@
     "contactForm" : [
     {
         "id" : 0,
-        "label" : "Nom",
-        "errorMessage" : "Name must have at least 3 letters"
-    },
-    {
-        "id" : 1,
-        "label" : "Prénom",
+        "label" : "Nom Complet",
         "errorMessage" : "Name must have at least 3 letters"
     },
 
