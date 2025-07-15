@@ -216,3 +216,9 @@ html, body {
   }
 } */
 
+
+@keyframes fall-heart {
+  0% { transform: translateY(0) rotate(-10deg); }
+  100% { transform: translateY(100vh) rotate(20deg); }
+}
+

@@ -8,6 +8,7 @@ import { motion } from 'framer-motion'
 // import { useKeenSlider } from "keen-slider/react"
 // import "keen-slider/keen-slider.min.css"
 // import type { KeenSliderInstance } from "keen-slider/react"
+import FallingHearts from './FallingHearts';
 
 
 // Plugin autoplay pour keen-slider
@@ -51,6 +52,7 @@ export default function  HeroSection() {
 
   return (
     <div>
+      <FallingHearts />
       <motion.section 
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
