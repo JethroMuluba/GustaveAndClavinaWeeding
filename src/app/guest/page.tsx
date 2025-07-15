@@ -403,6 +403,86 @@ const tableOfGuest = [
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
     guestTable: "Dieuleveux"
   },
+
+  {
+    id: "49",
+    guestName: "Plir Vermalin Ntumba",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Intelligra"
+  },
+
+  {
+    id: "50",
+    guestName: "Yanick Messa",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Intelligra"
+  },
+
+  {
+    id: "51",
+    guestName: "Nephtalie Zola",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Vainqueur"
+  },
+
+  {
+    id: "52",
+    guestName: "Drognet kinkela",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Panclas"
+  },
+  
+  {
+    id: "53",
+    guestName: "Couple Lauriane",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Jad"
+  },
+
+  {
+    id: "54",
+    guestName: "Couple Junior Tamba",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Jad"
+  },
+
+  {
+    id: "55",
+    guestName: "Justina et Jad",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Jad"
+  },
+
+  {
+    id: "56",
+    guestName: "Beggen",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Jad"
+  },
+
+  {
+    id: "57",
+    guestName: "Rev Kim",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Rev Kim"
+  },
+
+  {
+    id: "58",
+    guestName: "Ruth Luvuma ",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
+    guestTable: "Inaya-Sun"
+  },
 ]
 
 

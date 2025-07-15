@@ -60,10 +60,10 @@ export default function  HeroSection() {
         style={{ backgroundImage: `url(${getCover})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
       >
 
-        <div className="flex justify-center mt-150">
+        <div className="flex justify-center mt-213">
         <Link
           href="/guest"
-          className=" border border-[#c49344] hover:bg-[#f5e6c9] px-6 py-2 rounded-lg font-normal text-white cursor-pointer flex items-center justify-center gap-2 transition-colors duration-200"
+          className=" border border-[#c49344] hover:bg-[#f5e6c9] px-6 py-2 rounded-lg font-normal text-[#c49344] cursor-pointer flex items-center justify-center gap-2 transition-colors duration-200"
         >
           <span className='text-xs'>Voir à la liste des invités</span>
         </Link>
