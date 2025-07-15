@@ -7,6 +7,8 @@ import { Download} from "lucide-react"
 import html2canvas from "html2canvas";
 import { useRef } from 'react'
 import ContactForm from '@/components/contactForm'
+import FallingHearts from '@/components/FallingHearts';
+
 
 
 
@@ -59,6 +61,8 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
 
   return (
     <main className="min-h-screen bg-[#fff] flex flex-col md:items-center">
+      <FallingHearts />
+
       <motion.section 
                           initial={{ scale: 0, opacity: 0 }}
                           animate={{ scale: 1, opacity: 1 }}

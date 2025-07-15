@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-const HEARTS = ['🖤', '🖤', '🖤', '🖤'];
+const HEARTS = ['🖤', '💛', '🖤', '💛'];
 const HEART_COUNT = 18;
 
 function randomBetween(min: number, max: number) {
@@ -36,6 +36,7 @@ const FallingHearts: React.FC = () => {
 
   return (
     <div
+    className=' animate-pulse'
       ref={containerRef}
       style={{
         pointerEvents: 'none',

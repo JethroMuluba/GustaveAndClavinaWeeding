@@ -4,6 +4,8 @@ import React from 'react'
 import data from '@/data/data.json'
 import { motion } from 'framer-motion'
 import { useState } from 'react';
+import FallingHearts from '@/components/FallingHearts';
+
 
 const tableOfGuest = [
   {
@@ -502,6 +504,8 @@ const Guest = () => {
 
   return (
     <main className="min-h-screen bg-white flex flex-col md:items-center">
+      <FallingHearts />
+
 
 <motion.section 
       initial={{ opacity: 0 }}
