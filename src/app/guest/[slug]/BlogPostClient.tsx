@@ -39,7 +39,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
 
 
   const handleDownloadPng = async () => {
-    const section = document.querySelector('section:nth-child(2)');
+    const section = document.querySelector('section:nth-child(3)');
     if (section) {
       // Masquer le bouton avant capture
       const btn = section.querySelector('button');
@@ -182,7 +182,7 @@ const BlogPostClient = ({ post, getTemplate01, getTemplate02,  }: BlogPostClient
 
           <button 
             onClick={handleDownloadPng}
-            className="bg-[#c49344] hover:bg-[#9e793c] px-6 py-2 rounded-lg font-normal text-white cursor-pointer flex items-center gap-2 mb-10"
+            className="bg-[#c49344] hover:bg-[#9e793c] active:border-[#3B4E6A] active:border-2 px-6 py-2 rounded-lg font-normal text-white cursor-pointer flex items-center gap-2 mb-10"
           >
             <span className='text-xs'>TÉLÉCHARGER EN PNG</span>
             <Download className="w-5 h-5 animate-bounce" />
