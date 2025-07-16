@@ -554,6 +554,14 @@ const blogPosts = [
     guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752453028/Weeding%20Ya%20Djo/Card/Table%20Baserons/Bottom_guest_Miss_Karl_boqbhb.png",
     guestTable: "Amour"
   },
+
+  {
+    id: "69",
+    guestName: "Christian Kabeya",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752284016/Weeding%20Ya%20Djo/Location_QR_Code_j1afr2.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752453028/Weeding%20Ya%20Djo/Card/Table%20Baserons/Bottom_guest_Miss_Karl_boqbhb.png",
+    guestTable: "Zimbo"
+  },
 ]
 
 // Données simulées pour les articles connexes Drognet kinkela
