@@ -5,6 +5,7 @@ import data from '@/data/data.json'
 import { motion } from 'framer-motion'
 import { useState } from 'react';
 import FallingHearts from '@/components/FallingHearts';
+import { Eye, SquarePen, Trash } from 'lucide-react';
 
 
 const tableOfGuest = [
@@ -1586,7 +1587,7 @@ const Guest = () => {
                 <th className="px-3 py-2 rounded-tl-2xl">N°</th>
                 <th className="px-3 py-2">Nom de l&apos;invité </th>
                 <th className="px-3 py-2 rounded-tr-2xl">Table</th>
-                <th className="px-3 py-2">Invitation</th>
+                <th className="px-3 py-2">Actions</th>
               </tr>
             </thead>
             <tbody>
@@ -1597,13 +1598,30 @@ const Guest = () => {
                   <td className="px-3 py-2 font-semibold">{guest.id}</td>
                   <td className="px-3 py-2">{guest.guestName}</td>
                   <td className="px-3 py-2  text-primary">{guest.guestTable}</td>
-                  <td className="px-3 py-2">
+                  <td className="px-2 py-2 flex gap-2">
                     <a
                       href={`/guest/${guest.id}`}
                       rel="noopener noreferrer"
-                      className="inline-block px-4 py-1  rounded-lg bg-primary text-black  shadow hover:bg-secondary hover:text-[#c49344] transition-colors duration-200 text-sm"
+                      className="inline-block px-2 py-1  rounded-lg bg-primary text-black  shadow hover:bg-secondary hover:text-[#c49344] transition-colors duration-200 text-[8px]"
                     >
-                      Voir invitation
+                      <Eye />
+                    </a>
+
+                    <a
+                      href={`/guest/${guest.id}`}
+                      rel="noopener noreferrer"
+                      className="inline-block px-2 py-1  rounded-lg bg-primary text-green-500  shadow hover:bg-secondary hover:text-[#c49344] transition-colors duration-200 text-[8px]"
+                    >
+                      <SquarePen />
+                    </a>
+
+
+                    <a
+                      href={`/guest/${guest.id}`}
+                      rel="noopener noreferrer"
+                      className="inline-block px-2 py-1  rounded-lg bg-primary text-red-600  shadow hover:bg-secondary hover:text-[#c49344] transition-colors duration-200 text-[8px]"
+                    >
+                      <Trash />
                     </a>
                   </td>
                 </tr>
