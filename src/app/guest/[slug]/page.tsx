@@ -1528,13 +1528,6 @@ const blogPosts = [
     guestTable: "Tehilla"
   },
 
-  {
-    id: "191",
-    guestName: "Bénie",
-    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
-    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752226871/Weeding%20Baka/Guest-Done/Guest_Blessing_K_eh6uzi.png",
-    guestTable: "Intelligra"
-  },
 ]
 
 // Données simulées pour les articles connexes Drognet kinkela
