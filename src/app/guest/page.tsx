@@ -1565,6 +1565,22 @@ const tableOfGuest = [
     guestTable: "Promedi"
   },
 
+  {
+    id: "195",
+    guestName: "Mr John Tshikana",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752152678/Weeding%20Baka/Guest-Done/Guest_Mr_Jethro_M_hgafi2.png",
+    guestTable: "Dieuleveux"
+  },
+
+  {
+    id: "196",
+    guestName: "Couple Musasa",
+    guestQRCode: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752115767/Weeding%20Baka/qr-code_1_dzs5lg.png",
+    guestCard: "https://res.cloudinary.com/dr8ofciki/image/upload/v1752152678/Weeding%20Baka/Guest-Done/Guest_Mr_Jethro_M_hgafi2.png",
+    guestTable: "Logan"
+  },
+
 
 
 ]
